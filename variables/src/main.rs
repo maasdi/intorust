@@ -6,7 +6,7 @@ fn main() {
     println!("The value of x is {}", x);
 
     // constants
-    const MAX_POINTS: u32 = 100_000;
+    const MAX_POINTS: i32 = 100_000;
     println!("The value of const MAX_POINTS is {}", MAX_POINTS);
 
     // shadowing
